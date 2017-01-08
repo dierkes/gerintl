@@ -23,12 +23,12 @@ xkb_symbols "ger-intl" {
    key <AE07> { [        7, ampersand,   dead_horn,       onehalf       ] };
    key <AE08> { [        8, asterisk,    dead_ogonek,     threequarters ] };
 
-    key <AC01> { [	   a,          A,        adiaeresis,           Adiaeresis ] };
-    key <AD01> { [	   q,          Q,        aacute,               Aacute ] };
-    key <AD09> { [	   o,          O,        odiaeresis,           Odiaeresis ] };
-    key <AD10> { [	   p,          P,        oacute,               Oacute ] };
-    key <AD07> { [	   u,          U,        udiaeresis,           Udiaeresis ] };
-    key <AD06> { [	   y,          Y,        uacute,               Uacute ] };
+   key <AC01> { [	   a,          A,        adiaeresis,           Adiaeresis ] };
+   key <AD01> { [	   q,          Q,        aacute,               Aacute ] };
+   key <AD09> { [	   o,          O,        odiaeresis,           Odiaeresis ] };
+   key <AD10> { [	   p,          P,        oacute,               Oacute ] };
+   key <AD07> { [	   u,          U,        udiaeresis,           Udiaeresis ] };
+   key <AD06> { [	   y,          Y,        uacute,               Uacute ] };
 
    include "level3(ralt_switch)"
 };
